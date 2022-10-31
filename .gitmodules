@@ -1,0 +1,4 @@
+[submodule "stock-domain"]
+	path = stock-domain
+	url = https://github.com/JinHyukParkk/stock-domain.git
+  branch = main
